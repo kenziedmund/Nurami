@@ -1,10 +1,10 @@
 .navbar {
     transition: all 0.4s;
-    background-color: white;
+    background-color: #fff;
 }
 
 .navbar .nav-link {
-    color: white;
+    color: #fff;
     font-family: 'Montserrat';
     font-size: 40px;
 }
@@ -16,12 +16,12 @@
 }
 
 .navbar.active {
-    background: white;
+    background: #fff;
     box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.1);
 }
 
 .navbar.active .nav-link {
-    color: black;
+    color: #000;
 }
 
 .navbar.active .nav-link:hover,
@@ -41,7 +41,7 @@
 }
 
 .navbar-scroll {
-    background-color: #ffffff;
+    background-color: #fff;
     position: fixed;
     top: 0;
     z-index: 99;
@@ -55,8 +55,8 @@
 }
 
 .logo-n1 {
-    width: 90%;
-    margin-top: 75px;
+    width: 85%;
+    margin-top: 100px;
 }
 
 .logo-n2 {
@@ -77,7 +77,7 @@
     margin: auto;
     width: 500px;
     padding: 20px;
-    background-color: white;
+    background-color: #fff;
     border: 2px;
     border-radius: 25px;
 }
